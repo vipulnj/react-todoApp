@@ -124,6 +124,15 @@ class TodoApp extends Component {
         </Col>
         <Col xs="4"></Col>
       </Row>
+      <br/><br/><br/>
+      <Row>
+        <Col xs="4"></Col>
+        <Col xs="4" className="text-center">
+          <h6>Vipul Nataraj Jarmale</h6>
+          <h6>vxj160130@utdallas.edu</h6>
+        </Col>
+        <Col xs="4"></Col>
+      </Row>
       </div>
     );
   }
