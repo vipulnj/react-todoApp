@@ -1,0 +1,11 @@
+.heading{
+  color: #0069d9;
+}
+
+.todoListRow{
+  height: 250px;
+  overflow: auto;
+  background-color: #EAEAEA;
+  padding: 1px;
+  border-radius: 10px;
+}

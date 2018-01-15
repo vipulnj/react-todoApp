@@ -1,0 +1,9 @@
+.todo{
+  align-items: center;
+  display: flex;
+  cursor: pointer;
+}
+
+.todo-completed{
+  color: #d0d0d0;
+}
